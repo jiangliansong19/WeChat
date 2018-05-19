@@ -54,8 +54,8 @@ Page({
 
   bindHelloWorldTap: function() {
     console.log("click on helloWorld")
-    wx.navigateTo({
-      url: '../mine/mine',
-    })
+    // wx.navigateTo({
+    //   url: '../mine/mine',
+    // })
   }
 })
